@@ -1,0 +1,7 @@
+,precision,recall,f1-score,support
+MD Sazidul Islam,0.0,0.0,0.0,0.0
+Unknown,0.0,0.0,0.0,0.0
+person1,0.0,0.0,0.0,43.0
+accuracy,0.0,0.0,0.0,0.0
+macro avg,0.0,0.0,0.0,43.0
+weighted avg,0.0,0.0,0.0,43.0
